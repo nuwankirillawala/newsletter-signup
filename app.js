@@ -38,7 +38,7 @@ app.post("/", function(req, res){
 
     const options ={
         method: "POST",
-        auth: "promi:ab7a61fab6656347b702aa9d1dc42ddeb-us21"
+        auth: "promi:b7a61fab6656347b702aa9d1dc42ddeb-us21"
     };
 
     if(res.statusCode == 200){
